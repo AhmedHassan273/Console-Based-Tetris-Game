@@ -1,0 +1,17 @@
+-->  : move to right
+
+<-- : move to left
+
+ |  : faster falling
+ V 
+
+ ^ : rotate the block
+ |
+
+Space Bar : set down 
+
+Escape : pause the game
+
+Enter : continue game / choose from menu
+
+Backspace : back to previous menu
